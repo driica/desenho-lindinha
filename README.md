@@ -2,6 +2,6 @@
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" height="600" alt="Demonstração do Projeto" src="lindinha.png">
+    <img width="450" style="border-radius: 5px" height="300" alt="Demonstração do Projeto" src="lindinha.png">
   </kbd>
 </p>
